@@ -1,4 +1,4 @@
-module github.com/iamacarpet/go-win64api
+module github.com/bad-sect0r/go-win64api
 
 go 1.25.4
 
